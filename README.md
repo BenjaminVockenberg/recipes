@@ -1,4 +1,4 @@
-# recipes
+# Recipes
 
 Most of recipes are traditional family recipes created by my grandmother and mother. 
 A few of them were created by myself as I was a student in Fulda, Germany.
